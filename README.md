@@ -1,5 +1,5 @@
 # Análisis de Fourier 
-[![Ver Análisis de Fourier en File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXX-fourier-analysis_es) o [![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj)
+[![Ver Análisis de Fourier en File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/135291-analisis-de-fourier) o [![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj)
 
 **Módulo Curricular**  
 _Creado con R2021b. Compatible con R2021b y versiones posteriores._  
