@@ -12,7 +12,7 @@ Cada tema incluye un laboratorio que aplica los conceptos enseñados en la lecci
 Este módulo ha sido traducido automáticamente del inglés.
 
 ## Antecedentes
-1.  Asegúrese de tener todos los productos requeridos (listados a continuación) instalados. Si necesita incluir un producto, agréguelo utilizando el Explorador de complementos. Para instalar un complemento, vaya a la pestaña **Home** y seleccione  <img src="README_media/image_0.png" width="16" alt="image_0.png"> **Add-Ons** > **Get Add-Ons**.
+1.  Asegúrese de tener todos los productos requeridos (listados a continuación) instalados. Si necesita incluir un producto, agréguelo utilizando el Explorador de complementos. Para instalar un complemento, vaya a la pestaña **Home** y seleccione  <img src="Images/image_0.png" width="16" alt="image_0.png"> **Add-Ons** > **Get Add-Ons**.
 2. Comience con cada tema haciendo clic en el enlace de la primera columna de la tabla a continuación para acceder al ejemplo introductorio. Las instrucciones dentro de cada script interactivo lo guiarán a través de la lección.
 3. Complete la tarea de laboratorio ubicada en la última columna de la tabla para aplicar los conceptos.
 
@@ -25,35 +25,35 @@ MATLAB®, Symbolic Math Toolbox™
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **En este script, los estudiantes...** <br>  | **Tareas del laboratorio** <br>   |
-| <img src="README_media/image_1.png" width="267" alt="image_1.png"> <br>  | $\bullet$ Comparar señales en los dominios del tiempo y la frecuencia. <br> $\bullet$ Analizar señales de audio en el dominio de la frecuencia. <br> $\bullet$ Visualizar modos de serie de Fourier. <br> $\bullet$ Describir cómo se representa el cambio de fase en una serie de Fourier. <br> $\bullet$ Discutir magnitud y fase. <br>  | [Lab1\_SerieDeFourier.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab1_SerieDeFourier.mlx) <br>   |
+| <img src="Images/image_1.png" width="267" alt="image_1.png"> <br>  | $\bullet$ Comparar señales en los dominios del tiempo y la frecuencia. <br> $\bullet$ Analizar señales de audio en el dominio de la frecuencia. <br> $\bullet$ Visualizar modos de serie de Fourier. <br> $\bullet$ Describir cómo se representa el cambio de fase en una serie de Fourier. <br> $\bullet$ Discutir magnitud y fase. <br>  | [Lab1\_SerieDeFourier.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab1_SerieDeFourier.mlx) <br>   |
 |      |      |       |
 
 ## [**FourierCompleja.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/FourierCompleja.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **En este script, los estudiantes...** <br>  | **Tareas del laboratorio** <br>   |
-| <img src="README_media/image_2.png" width="267" alt="image_2.png"> <br>  | $\bullet$ Recordar la fórmula de Euler. <br> $\bullet$ Comparar series de Fourier complejas y reales. <br> $\bullet$ Visualizar series de Fourier complejas. <br> $\bullet$ Construir funciones utilizando series de Fourier complejas. <br>  | [Lab2\_SerieDeFourierCompleja.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab2_SerieDeFourierCompleja.mlx) <br>   |
+| <img src="Images/image_2.png" width="267" alt="image_2.png"> <br>  | $\bullet$ Recordar la fórmula de Euler. <br> $\bullet$ Comparar series de Fourier complejas y reales. <br> $\bullet$ Visualizar series de Fourier complejas. <br> $\bullet$ Construir funciones utilizando series de Fourier complejas. <br>  | [Lab2\_SerieDeFourierCompleja.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab2_SerieDeFourierCompleja.mlx) <br>   |
 |      |      |       |
 
 ## [**TransformadaDeFourier.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/TransformadaDeFourier.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **En este script, los estudiantes...** <br>  | **Tareas del laboratorio** <br>   |
-| <img src="README_media/image_3.png" width="267" alt="image_3.png"> <br>  | $\bullet$ Comparar series de Fourier con la transformada de Fourier. <br> $\bullet$ Evaluar la transformada de Fourier de una función. <br> $\bullet$ Representar señales utilizando funciones continuas. <br> $\bullet$ Discutir ondas portadoras y modulación. <br> $\bullet$ Comparar funciones en los dominios del tiempo y la frecuencia utilizando la transformada de Fourier. <br>  | [Lab3\_TransformadaFourier.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab3_TransformadaFourier.mlx) <br>   |
+| <img src="Images/image_3.png" width="267" alt="image_3.png"> <br>  | $\bullet$ Comparar series de Fourier con la transformada de Fourier. <br> $\bullet$ Evaluar la transformada de Fourier de una función. <br> $\bullet$ Representar señales utilizando funciones continuas. <br> $\bullet$ Discutir ondas portadoras y modulación. <br> $\bullet$ Comparar funciones en los dominios del tiempo y la frecuencia utilizando la transformada de Fourier. <br>  | [Lab3\_TransformadaFourier.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab3_TransformadaFourier.mlx) <br>   |
 |      |      |       |
 
 ## [**FourierDiscreta.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/FourierDiscreta.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **En este script, los estudiantes...** <br>  | **Tareas del laboratorio** <br>   |
-| <img src="README_media/image_4.png" width="267" alt="image_4.png"> <br>  | $\bullet$ Graficar la transformada discreta de Fourier (DFT). <br> $\bullet$ Usar la función fft para calcular la DFT. <br> $\bullet$ Relacionar la DFT con la transformada de Fourier. <br> $\bullet$ Aplicar la DFT para analizar una señal de audio. <br>  | [Lab4\_DFT\_es.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab4_DFT_es.mlx) <br>   |
+| <img src="Images/image_4.png" width="267" alt="image_4.png"> <br>  | $\bullet$ Graficar la transformada discreta de Fourier (DFT). <br> $\bullet$ Usar la función fft para calcular la DFT. <br> $\bullet$ Relacionar la DFT con la transformada de Fourier. <br> $\bullet$ Aplicar la DFT para analizar una señal de audio. <br>  | [Lab4\_DFT\_es.mlx](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=Scripts/Lab4_DFT_es.mlx) <br>   |
 |      |      |       |
 
 # Apps
 |      |      |      |      |
 | :-- | :-- | :-- | :-- |
 | [Sine and Cosine Series app](matlab:run SinCosSeries.mlapp;)  <br>  | [Fourier Series app](matlab:run InteractiveFourierSeries.mlapp;) <br>  |  [Magnitude and Phase app](matlab:run MagnitudePhase.mlapp;)  <br>  | [Complex Fourier Series app](matlab:run ComplexFourierSeries.mlapp) <br>   |
-| [<img src="README_media/image_5.png" width="186" alt="image_5.png">](matlab:run SinCosSeries.mlapp) <br>  | [<img src="README_media/image_6.png" width="186" alt="image_6.png">](matlab:run InteractiveFourierSeries.mlapp) <br>  | [<img src="README_media/image_7.png" width="186" alt="image_7.png">](matlab:run MagnitudePhase.mlapp) <br>  | [<img src="README_media/image_8.png" width="185" alt="image_8.png">](matlab:run ComplexFourierSeries.mlapp) <br>   |
+| [<img src="Images/image_5.png" width="186" alt="image_5.png">](matlab:run SinCosSeries.mlapp) <br>  | [<img src="Images/image_6.png" width="186" alt="image_6.png">](matlab:run InteractiveFourierSeries.mlapp) <br>  | [<img src="Images/image_7.png" width="186" alt="image_7.png">](matlab:run MagnitudePhase.mlapp) <br>  | [<img src="Images/image_8.png" width="185" alt="image_8.png">](matlab:run ComplexFourierSeries.mlapp) <br>   |
 |      |      |      |       |
 
 # Educator Resources 
