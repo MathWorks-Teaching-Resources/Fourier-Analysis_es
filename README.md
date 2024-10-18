@@ -1,6 +1,14 @@
 
 # <span style="color:rgb(213,80,0)">Análisis de Fourier</span>
 
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/135291-analisis-de-fourier) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Fourier-Analysis_es&project=FourierAnalysis.prj&file=README.mlx)
+
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FFourier-Analysis_es%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Fourier-Analysis)
+
+**Curriculum Module**
+
+_Created with R2021b. Compatible with R2024a and later releases._
+
 # Información
 
 Este módulo de currículum enseña análisis de Fourier utilizando [scripts interactivos](https://www.mathworks.com/products/matlab/live-editor.html) y [aplicaciones de MATLAB](https://www.mathworks.com/products/matlab/app-designer.html). El módulo se enseña desde una perspectiva de procesamiento de señales a un nivel adecuado para un curso introductorio de señales y sistemas. En la primera lección, los estudiantes usan aplicaciones para visualizar series de Fourier y desarrollar intuición sobre el dominio de la frecuencia. En lecciones posteriores, los estudiantes estudian series de Fourier complejas, transformadas de Fourier y transformadas de Fourier discretas. A medida que los estudiantes progresan, pasan de utilizar aplicaciones a escribir su propio código para analizar señales. A lo largo del módulo, los estudiantes aplican técnicas de Fourier para analizar señales de audio grabadas.
