@@ -14,7 +14,7 @@ _Created with R2021b. Compatible with R2024a and later releases._
 Este módulo de currículum enseña análisis de Fourier utilizando [scripts interactivos](https://www.mathworks.com/products/matlab/live-editor.html) y [aplicaciones de MATLAB](https://www.mathworks.com/products/matlab/app-designer.html). El módulo se enseña desde una perspectiva de procesamiento de señales a un nivel adecuado para un curso introductorio de señales y sistemas. En la primera lección, los estudiantes usan aplicaciones para visualizar series de Fourier y desarrollar intuición sobre el dominio de la frecuencia. En lecciones posteriores, los estudiantes estudian series de Fourier complejas, transformadas de Fourier y transformadas de Fourier discretas. A medida que los estudiantes progresan, pasan de utilizar aplicaciones a escribir su propio código para analizar señales. A lo largo del módulo, los estudiantes aplican técnicas de Fourier para analizar señales de audio grabadas.
 
 
-Cada tema incluye un laboratorio que aplica los conceptos enseñados en la lección. Las soluciones están disponibles bajo petición del instructor. Si desea solicitar soluciones, encuentra algún problema o tiene una sugerencia, envíe un correo electrónico al equipo de enseñanza en línea de MathWorks a onlineteaching@mathworks.com.
+Cada tema incluye un laboratorio que aplica los conceptos enseñados en la lección. Comuníquese con el [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com) si desea solicitar asistencia, proporcionar comentarios o si tiene alguna pregunta.
 
 
 Este módulo ha sido traducido automáticamente del inglés.
