@@ -68,6 +68,6 @@ MATLAB®, Symbolic Math Toolbox™
 -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
 
 
-Copyright 2023 The MathWorks™, Inc
+Copyright 2023-2026 The MathWorks, Inc
 
 
