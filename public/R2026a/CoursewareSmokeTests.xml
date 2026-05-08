@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" name="CoursewareSmokeTests[Project=matlab.project.Project]" skipped="0" tests="24" time="126.8001">
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=ComplexFourierSeries.mlx)" time="0.42037">
+      <error>Error occurred in CoursewareSmokeTests[Project=matlab.project.Project]/runLearnerScriptSmokeTest(ScriptFile=ComplexFourierSeries.mlx) and it did not run to completion.
+    ---------
+    Error ID:
+    ---------
+    'MATLAB:run:ShadowedFile'
+    --------------
+    Error Details:
+    --------------
+    Error using run (line 93)
+    MATLAB cannot run this file because
+    C:\Users\esmithzb\Repositories\Mathematics\Fourier-Analysis\Apps\ComplexFourierSeries.mlapp
+    shadows it.
+    
+    Error in CoursewareSmokeTests/runScriptWithPrePostHooks (line 118)
+                    run(fileToRun);
+    
+    Error in CoursewareSmokeTests/runLearnerScriptSmokeTest (line 75)
+                testCase.runScriptWithPrePostHooks(fileToRun);</error>
+    </testcase>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=DiscreteFourierTransform.mlx)" time="8.3713"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=FourierSeries.mlx)" time="5.145"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=FourierTransform.mlx)" time="8.2397"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=Lab1_FourierSeries.mlx)" time="1.5844"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=Lab2_ComplexFourierSeries.mlx)" time="0.24847"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=Lab3_FourierTransform.mlx)" time="0.23396"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runLearnerScriptSmokeTest(ScriptFile=Lab4_DFT.mlx)" time="0.19122"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=ComplexFourierSeries.mlx)" time="0.25991"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=DiscreteFourierTransform.mlx)" time="0.23886"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=FourierSeries.mlx)" time="0.25341"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=FourierTransform.mlx)" time="0.24726"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=Lab1_FourierSeries.mlx)" time="0.23007"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=Lab2_ComplexFourierSeries.mlx)" time="0.21768"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=Lab3_FourierTransform.mlx)" time="0.22389"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="verifySolutionScriptExists(ScriptFile=Lab4_DFT.mlx)" time="0.22193"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=ComplexFourierSeries.mlx)" time="22.5917"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=DiscreteFourierTransform.mlx)" time="8.7321"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=FourierSeries.mlx)" time="5.8535"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=FourierTransform.mlx)" time="12.2507"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=Lab1_FourierSeries.mlx)" time="43.8247"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=Lab2_ComplexFourierSeries.mlx)" time="0.48223"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=Lab3_FourierTransform.mlx)" time="5.3349"/>
+    <testcase classname="CoursewareSmokeTests[Project=matlab.project.Project]" name="runSolutionScriptSmokeTest(ScriptFile=Lab4_DFT.mlx)" time="1.4028"/>
+  </testsuite>
+</testsuites>
